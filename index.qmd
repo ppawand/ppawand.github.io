@@ -1,0 +1,16 @@
+---
+title: ""
+---
+
+# Pawan Devkota
+
+## Postdoctoral Researcher  
+Plant Physiology • Soil Ecology • Molecular Approaches
+
+Welcome to my research website.
+
+My research integrates plant physiological measurements, soil biogeochemistry, and high-dimensional omics approaches to understand ecosystem function under abiotic stress and regenerative agricultural systems.
+
+[View My Research](research.qmd)
+
+[Download CV](cv.pdf)

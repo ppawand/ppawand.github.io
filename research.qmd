@@ -1,0 +1,24 @@
+---
+title: "Research"
+---
+
+## Research Focus
+
+My research bridges plant physiology, soil ecology, and molecular biology to understand:
+
+-   Climate-driven stress responses in crops
+-   Soil health under regenerative management
+-   Plant–microbe interactions
+-   Omics-driven ecosystem modeling
+
+------------------------------------------------------------------------
+
+## Current Projects
+
+### Soil Health and Crop Physiology
+
+Description here.
+
+### Endosymbiont–Host Interactions in Spartina
+
+Description here.
