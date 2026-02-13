@@ -7,17 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - Publications.qmd
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
