@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Paper Title, (2026). Journal Name.\nAnother Important Work, (2025). Conference Name."
+  },
+  {
+    "objectID": "Publications.html#peer-reviewed-articles",
+    "href": "Publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Paper Title, (2026). Journal Name.\nAnother Important Work, (2025). Conference Name."
+  },
+  {
+    "objectID": "Publications.html#working-papers",
+    "href": "Publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nCurrent Project on XYZ, In Progress."
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
