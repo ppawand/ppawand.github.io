@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+
+## Peer-Reviewed Articles
+
+* **Your Paper Title**, (2026). *Journal Name*.
+* **Another Important Work**, (2025). *Conference Name*.
+
+## Working Papers
+
+* *Current Project on XYZ*, In Progress.
