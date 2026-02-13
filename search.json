@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Pawan Devkota",
-    "section": "",
-    "text": "Plant Physiology • Soil Ecology • Molecular Approaches\nWelcome to my research website.\nMy research integrates plant physiological measurements, soil biogeochemistry, and high-dimensional omics approaches to understand ecosystem function under abiotic stress and regenerative agricultural systems.\nView My Research\nDownload CV"
-  },
-  {
-    "objectID": "index.html#postdoctoral-researcher",
-    "href": "index.html#postdoctoral-researcher",
-    "title": "Pawan Devkota",
-    "section": "",
-    "text": "Plant Physiology • Soil Ecology • Molecular Approaches\nWelcome to my research website.\nMy research integrates plant physiological measurements, soil biogeochemistry, and high-dimensional omics approaches to understand ecosystem function under abiotic stress and regenerative agricultural systems.\nView My Research\nDownload CV"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -40,5 +19,26 @@
     "title": "Research",
     "section": "Current Projects",
     "text": "Current Projects\n\nSoil Health and Crop Physiology\nDescription here.\n\n\nEndosymbiont–Host Interactions in Spartina\nDescription here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pawan Devkota",
+    "section": "",
+    "text": "Plant Physiology • Soil Ecology • Molecular Approaches\nWelcome to my research website.\nMy research integrates plant physiological measurements, soil biogeochemistry, and high-dimensional omics approaches to understand ecosystem function under abiotic stress and regenerative agricultural systems.\nView My Research\nDownload CV"
+  },
+  {
+    "objectID": "index.html#postdoctoral-researcher",
+    "href": "index.html#postdoctoral-researcher",
+    "title": "Pawan Devkota",
+    "section": "",
+    "text": "Plant Physiology • Soil Ecology • Molecular Approaches\nWelcome to my research website.\nMy research integrates plant physiological measurements, soil biogeochemistry, and high-dimensional omics approaches to understand ecosystem function under abiotic stress and regenerative agricultural systems.\nView My Research\nDownload CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
