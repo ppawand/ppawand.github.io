@@ -7,6 +7,27 @@
     "text": "About this site"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Paper Title, (2026). Journal Name.\nAnother Important Work, (2025). Conference Name."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Paper Title, (2026). Journal Name.\nAnother Important Work, (2025). Conference Name."
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Publications",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nCurrent Project on XYZ, In Progress."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Pawan Devkota",
